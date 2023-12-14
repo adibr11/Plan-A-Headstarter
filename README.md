@@ -15,8 +15,6 @@
 
 __Plan-A Headstarter__ is a group scheduling web application with video calling and calendar sharing all in one place! Schedule events, join meetings, collaborate with your team, and plan a head[starter] with this easy-to-use dashboard!
 
-#### Created by: Omar Narine, Rafinal Haque, and Jake Enea
-
 ### Features:
 - [Register and login with email](https://github.com/omar-narine/Plan-A-Headstarter#login-sign-out-and-sign-up)
 - [Calendar](https://github.com/omar-narine/Plan-A-Headstarter#calendar) - schedule and delete events on the interactive group calendar
